@@ -1,6 +1,7 @@
-# One Month Rails
+# Rails and Rockets
 
-This is the sample application for 
-[*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
+Share your favorite exotic cars with everyone!  
+This is a sample application for 
+[*One Month Rails*](http://onemonthrails.com)
 
-by [Scotty Rabbit](espn.com)
+by Justin Z
