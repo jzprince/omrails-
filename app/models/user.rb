@@ -10,4 +10,8 @@ class User < ActiveRecord::Base
   # attr_accessible :title, :body
 
   has_many :pins
+
+
+  extend FriendlyId
+  friendly_id :name, use: :slugged
 end
